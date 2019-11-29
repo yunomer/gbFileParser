@@ -1,0 +1,6 @@
+accession
+Reference
+translation
+organism
+seq
+taxonomy
